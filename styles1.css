@@ -1,0 +1,200 @@
+.mainheading {
+    text-align: center;
+    font-size: 36px;   
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    color:rgb(248, 231, 231);
+   
+   }
+   .background-container{
+       background-image:url("https://th.bing.com/th/id/R.cb238dde6a47bbd40f7f7a0c1275e3b6?rik=jKKAQEGqWLShAg&riu=http%3a%2f%2fjoystudiodesign.com%2fwp-content%2fuploads%2f2015%2f12%2fP3090587-1.jpg&ehk=T9bZplpkghcmTiuH8iV0gguZ97lVlF9%2bkTE8sWaDYNY%3d&risl=&pid=ImgRaw&r=0") ;
+       height:100vh;
+       width: 100vw;
+       background-color:rgb(254, 253, 253);
+       background-size: cover;
+   
+   }
+   .subheading{
+    color: aliceblue;
+   }
+   .cardcontainer{
+       background-color: azure;
+       border-radius: 9PX;
+       padding: 20PX;
+   
+   }
+   .subhead{
+       font-size: 18px;
+       color: rgb(234, 225, 225);
+       font-style: italic;
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+   .image{
+       height: 180px;
+       width:160px;
+       padding: 15px;
+   }
+   .buttonstyle{
+       border-top-right-radius: 8px;
+       border-top-left-radius:8px ;
+       border-bottom-right-radius:8px;
+       border-bottom-left-radius: 8px;
+       color:rgb(210, 21, 21);
+       padding:10px ;
+       font-weight: 200px;
+       font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+       background-color: black;
+       box-shadow: 90px;
+
+   }
+   .heading{
+       font-size: 40px;
+       color: black;
+       font-family: 'Times New Roman', Times, serif;
+       font-style: normal;
+   }
+   .bg-container{
+    background-image: url("https://images.template.net/wp-content/uploads/2018/01/i7digqmlhulnfrqrnklij708x3lxrmfobyethcgdzmvxhwmux6gqppnwhsssqmua--e1516763052967.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    height:100vh;
+    width:100vw ;
+    background-color: rgb(3, 0, 0);
+
+
+   }
+   .breakfastcard-container{
+    padding: 130px;
+    margin-left:-128PX ;
+    margin-right:1000px ;
+   }
+   .textstyle1{
+    font-family:italic;
+    font-style:oblique;
+    font-size:large;
+    font-weight:bold;
+    white-space: nowrap;
+    margin:4px ;
+    font-stretch: expanded;
+    color: rgb(246, 240, 240);
+    
+   }
+   .breakfast-heading{
+    text-decoration: underline;
+    font-style: oblique;
+    color:rgb(170, 201, 196);
+
+   }
+   .breakfastindian-card-container{
+    margin-top:-305px ;
+    margin-left: 370px;
+   }
+   .backgroundcontainer{
+    height: 100vh;
+    width: 100vw;
+    max-height: 100%;
+    background-size:COVER;
+    background-image: url("https://cdn2.f-cdn.com/contestentries/52520/9672849/52c023237ae48_thumb900.jpg");
+    
+    
+   }
+   .HEADING{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-weight: bolder;
+   font-style:italic;
+   text-decoration: underline;
+   color:rgb(233, 221, 221);
+   text-align: center;
+   margin-top: 10PX;
+   }
+   .textstyle2{
+    font-family:italic;
+    font-style:oblique;
+    font-size:large;
+    font-weight:bold;/
+    margin:4px ;
+    font-stretch: expanded;
+    color: rgb(22, 22, 22);
+    margin-left: 800px;
+    margin-top:-24px;
+
+   }
+   .STARTERSheading{
+    text-decoration: underline;
+    font-style: oblique;
+    color:rgb(81, 184, 167);
+   }
+   .mainsbackgroundcontainer{
+    background-image: url("https://th.bing.com/th/id/OIP.wHT1bnC4h-Nv8tJ44QqfHQHaEu?w=298&h=190&c=7&r=0&o=5&dpr=1.8&pid=1.7");
+    height: 100vh;
+    width: 100vw;
+    max-height: 100%;
+    background-size:COVER;
+   }
+   .textstyle3{
+    font-family:italic;
+    font-style:oblique;
+    font-size:35PX;
+    margin:4px ;
+    color: antiquewhite;
+    font-stretch: extra-expanded;
+    text-shadow:60px;
+
+   }
+   .biryanisbackgroundcontainer{
+    background-image:url("https://media.giphy.com/media/j1svslruuX6dIanPM0/giphy.gif");
+    background-size: cover;
+    height: 100vh;
+    width:100vw;
+   }
+   .textstyle4{
+    color:white;
+    font-family:italic;
+    font-style:oblique;
+    font-size:25PX;
+    margin-left: 4px;
+   }
+   .Mainheading{
+    text-align: center;
+    color: rgb(32, 31, 31);
+   }
+   .drinksbackgroundcontainer{
+    background-image: url("https://th.bing.com/th/id/OIP.WTyPXGzO6C2VCFG3Z1oC5wHaEo?w=244&h=180&c=7&r=0&o=5&dpr=1.8&pid=1.7");
+    background-size: cover;
+    height: 100vh;
+    width:100vw;
+   }
+   .LASTbackgroundcontainer{
+    background-color: black;
+    height: 100vh;
+    width: 100vw;
+   }
+   
+   .image{
+    padding: 50px;
+    height: 569px;
+    width:749px;
+   }
+   .textstyle5{
+    color: antiquewhite;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-weight: bold;
+    font-style: oblique;
+    font-size: 30px;
+    margin-bottom:10px;
+   }
+   .textstyle6{
+    color:rgb(155, 20, 47);
+    margin-bottom:230px;
+    margin-top: -590px;
+    margin-left: 950px;
+    font-size: 90px;
+    text-decoration: double;
+
+   }
+    
+
+    
+    
+
+   
